@@ -5,8 +5,8 @@ The goal of this project is to design a ticketing system allowing an artist to s
 ## Smart Contract Testing
 
 There is only the solidity part here, with the smart contract and the javascript test files.*
-Test files verify the security of our ticketing system.
-You can run smart contracts test using truffle test.
+Test files verify the security of our ticketing system. 
+We implement 14 tests, you can run smart contracts test using truffle test.
 
 ```python
 truffle test
