@@ -1,13 +1,12 @@
 # Ticketing System on Ethereum
 
-The goal of this project is to design a ticketing system allowing an artist to sell their tickets directly to their audience.
+The goal of this project is to design a ticketing system allowing an artist to sell their tickets directly to their audience.<br>
 This solution is coded in Solidity in order to be deployed on EVM.<br>
 There is only the back-end part here, including the Solidity smart contracts and the javascript test files.
 
 ## Smart Contract Testing
 
-Test files verify the security of our ticketing system.<br>
-You can run smart contracts test using truffle test.
+Test files verify the security of our ticketing system, you can run them using truffle test.
 
 ```python
 truffle test
@@ -24,4 +23,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-This project was give buy our teacher [Henri Lieutaud](https://github.com/l-henri) and did by Ameryc Noël (https://github.com/aymericnoel) and [myself](https://github.com/jmc171144).
+This project was give buy our teacher [Henri Lieutaud](https://github.com/l-henri) and did by [Ameryc Noël](https://github.com/aymericnoel) and [myself](https://github.com/jmc171144).
