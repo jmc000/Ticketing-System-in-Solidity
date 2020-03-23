@@ -13,7 +13,7 @@ truffle test
 ```
 
 Here is the result you should have:
-![image](C:\Users\marti\Desktop\ESILV\FinTech_S9\Blockchain_Programming\TD8_truffle-testing\image.png)
+![image](C:\Users\marti\Desktop\ESILV\FinTech_S9\Blockchain_Programming\TD8_truffle-testing\image.jpg)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
